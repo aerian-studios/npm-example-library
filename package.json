@@ -1,5 +1,5 @@
 {
-  "name": "library",
+  "name": "npm-example-library",
   "version": "0.0.1",
   "private": true,
   "engine": "node 6.10.2",
