@@ -21,3 +21,7 @@ npm link npm-example-library
 
 4.) Test
 http://localhost:3000/
+
+## Other
+
+See https://github.com/aerian-studios/npm-example-express
