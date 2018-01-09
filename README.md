@@ -22,6 +22,10 @@ npm link npm-example-library
 4.) Test
 http://localhost:3000/
 
+Local symlink can be removed with:
+```
+npm unlink npm-example-library
+```
 ## Other
 
 See https://github.com/aerian-studios/npm-example-express
